@@ -1,0 +1,21 @@
+body {
+	background-attachment:fixed;
+	background-image:url("mi.jpg");
+	background-color: black;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+font {
+	font-family: "times new roman", serif;
+	font-size: 30px;
+	color: white;
+	font-style: bold;
+}
+h1{
+	color:white;
+	font-size:50px;
+	font-style: bold,italic;
+	font-family:"times new roman", serif;
+}
+		
+	

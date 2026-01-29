@@ -1,0 +1,22 @@
+body {
+	background-attachment:fixed;
+	background-image:url("gg.jpg");
+	background-color: white;
+	background-size:fit;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+font {
+	font-family: "times new roman", serif;
+	font-size: 30px;
+	color: black;
+	font-style: bold;
+	text-align: left;
+}
+h1{
+	color:black;
+	font-size:50px;
+	font-style: bold,italic;
+	font-family:"times new roman", serif;
+	text-align:left;
+}

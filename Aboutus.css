@@ -1,0 +1,19 @@
+img {
+	width: 500px;
+	height : auto;
+}
+body {
+	background-color : white;
+	background-image : url("afri.jpg");
+	background-attachment:fixed;
+	background-position: center;
+	background-size:fit;
+	background-repeat: no-repeat;
+	
+}
+font {
+	font-family: "times new roman",serif;
+	font-size:30px;
+	color:black;
+	font-style: bold;
+}
